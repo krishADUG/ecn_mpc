@@ -2,7 +2,7 @@
 
 **work in progress**
 
-This package shows how to perform MPC for a car-like vehicle tracking trajectories on the Centrale Nantes campus.
+This package shows how to perform MPC for a car-like vehicle tracking trajectories.
 
 3 approaches are proposed:
 
